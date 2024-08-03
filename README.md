@@ -1,3 +1,5 @@
+This has been build to solve the requirements of the LuxorLabs Frontend Challenge found at https://github.com/LuxorLabs/frontend-coding-challenge . 
+
 # LuxorLabs Frontend Challenge
 
 A simple bidding system built with Next.js and Tailwind CSS.
