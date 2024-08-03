@@ -8,9 +8,6 @@ A simple bidding system built with Next.js and Tailwind CSS.
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Prerequisites
 
