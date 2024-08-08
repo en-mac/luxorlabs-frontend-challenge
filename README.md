@@ -82,3 +82,5 @@ To use the project, open your browser and navigate to `http://localhost:3000`.
 - **DELETE /api/bids/[id]**: Delete a specific bid.
 - **POST /api/bids/accept**: Accept a bid and reject others.
 
+
+test
